@@ -1,5 +1,5 @@
 # 说明
-[https://zz.github.io/](https://zz.github.io/)
+[https://zz-fe.github.io/](https://zz-fe.github.io/)
 
 ## 前端知识体系
 
