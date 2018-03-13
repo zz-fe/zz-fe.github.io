@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "publish":"gitbook build && git checkout gh-pages && cp -r _book/* . && git add . && git commit -m 'Publish' && git push && git checkout master"
+    "publish":"gitbook build && git checkout master && cp -r _book/* . && git add . && git commit -m 'Publish' && git push"
   },
   "repository": {
     "type": "git",
